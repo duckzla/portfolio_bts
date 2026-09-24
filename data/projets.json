@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "mise-a-disposition-de-services",
+    "titre": "Mise à disposition de services",
+    "sigle": "N°1",
+    "resume": "Déploiement d'une infrastructure de services conteneurisés avec Docker : bases de données, outils de gestion, outils métier et cartographie réseau.",
+    "type": "Projet d'école",
+    "statut": "Terminé",
+    "technos": ["Docker", "PostgreSQL", "MySQL", "WordPress", "n8n", "Portainer"],
+    "pdf": "Mise_a_disposition_SIO_Léo_ADAM.pdf",
+    "github": "",
+    "description": [
+      "Livrable scolaire documentant le déploiement d'une infrastructure de services via Docker. Le document présente l'organisation du projet (géré avec ClickUp), les outils utilisés (Notion, VS Code, Docker Desktop), puis détaille chaque application déployée en conteneur : deux bases de données (PostgreSQL et MySQL), des interfaces de gestion (Adminer, phpMyAdmin, Portainer), des outils métier (PIA pour la conformité RGPD, Baserow pour les données no-code, Projeqtor pour la gestion de projets, deux instances WordPress, Appflowy et N8n pour l'automatisation).",
+      "Chaque service est documenté avec son Docker Compose, ses ports, ses connexions et son rôle. Le document se conclut par une cartographie réseau illustrant l'architecture globale et les flux de communication entre les conteneurs."
+    ]
+  },
+  {
+    "slug": "jeu-pokemon",
+    "titre": "Jeu Pokémon",
+    "sigle": "N°2",
+    "resume": "Application web inspirée de l'univers Pokémon : création d'équipe, gestion des statistiques et système de combat stratégique.",
+    "type": "Projet d'école",
+    "statut": "En cours",
+    "technos": ["Développement fullstack", "Base de données", "UX"],
+    "pdf": "",
+    "github": "",
+    "description": [
+      "Dans le cadre de notre formation en BTS SIO option SLAM, nous développons une application web inspirée de l'univers des Pokémon. L'objectif du projet est de concevoir une plateforme interactive permettant aux utilisateurs de créer une équipe de Pokémon, de gérer leurs statistiques et d'affronter d'autres joueurs ou des adversaires contrôlés par l'application dans un système de combat stratégique en temps réel ou au tour par tour.",
+      "Ce projet nous permet de mettre en pratique plusieurs compétences liées au développement web fullstack, à la gestion de base de données, à la conception logicielle et à l'expérience utilisateur."
+    ]
+  }
+]
